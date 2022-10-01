@@ -12,4 +12,5 @@
 - [Anusree P](https://github.com/anusree27)
 - [Tushar Jain](https://github.com/Tusharjain123)
 - [Aman Singh](https://github.com/Aman0307)
+- [Shyamala Gopalakrishnan](https://github.com/shyamala7)
 - <!-- prettier-ignore-end -->

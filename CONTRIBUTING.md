@@ -18,6 +18,7 @@
 - [YourName](https://github.com/YourGitHubUsername)
 ```
  
+ - [Jeff Blankenship](https://github.com/JeffBship)
 
 * Replace YourName with your name and YourGitHubUsername with your GitHub username.
 * Commit the changes.
@@ -25,7 +26,7 @@
 * Create a pull request.
 * and You have practiced how to make a pull request.
 * Your PR will be merged soon.
-- [Jeff Blankenship](https://github.com/JeffBship)
+
 <br>
 
 #### For more information on how to contribute to open source projects, check out this [link](https://opensource.guide/how-to-contribute/) and [this](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and "How to Contribute to Open Source" by [freeCodeCamp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/).

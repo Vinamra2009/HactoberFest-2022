@@ -29,8 +29,8 @@ class Student(models.Model):
     pass
 
 class Contact(models.Model):
-    first_name = models.CharField()
-    last_name = models.CharField()
+    first_name = models.CharField(max_length=200)
+    last_name = models.CharField(max_length=200)
     email = models.EmailField()
     subject = models.CharField(max_length=255)
     message = models.TextField()

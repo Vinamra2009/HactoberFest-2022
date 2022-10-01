@@ -10,5 +10,7 @@
 - [Tanmoy Sengupta](https://github.com/TSG405)
 - [codewithnadeem14502](https://github.com/codewithnadeem14502)
 - [Anusree P](https://github.com/anusree27)
+- [Tushar Jain](https://github.com/Tusharjain123)
+- [Aman Singh](https://github.com/Aman0307)
 - [Shyamala Gopalakrishnan](https://github.com/shyamala7)
 - <!-- prettier-ignore-end -->

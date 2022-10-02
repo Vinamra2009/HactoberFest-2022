@@ -18,6 +18,7 @@
 - [YourName](https://github.com/YourGitHubUsername)
 ```
  
+ - [Jeff Blankenship](https://github.com/JeffBship)
 
 * Replace YourName with your name and YourGitHubUsername with your GitHub username.
 * Commit the changes.
